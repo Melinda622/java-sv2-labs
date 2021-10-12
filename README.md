@@ -1,1 +1,1 @@
-# java-sv2-labs
+# A struktúraváltáshoz tartozó gyakorlati feladataim 
