@@ -1,7 +1,5 @@
 package stringseparate;
 
-import com.sun.security.jgss.GSSUtil;
-
 import java.util.ArrayList;
 import java.util.List;
 
