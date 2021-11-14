@@ -3,6 +3,7 @@ package meetingrooms;
 import java.util.Scanner;
 
 public class MeetingRoomController {
+
     Office office = new Office();
 
     public void readOffice() {
