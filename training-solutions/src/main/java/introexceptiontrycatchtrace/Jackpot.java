@@ -3,7 +3,6 @@ package introexceptiontrycatchtrace;
 public class Jackpot {
 
     public static void main(String[] args) {
-        Jackpot jackpot = new Jackpot();
         Winner winner=new Winner();
 
         try {
