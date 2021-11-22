@@ -22,7 +22,7 @@ public class Calculator {
 
         try {
             if (operation.equalsIgnoreCase("division")) {
-                System.out.println((double) (number1 / number2));
+                System.out.println(number1 / number2);
             }
         } catch (ArithmeticException ae) {
             System.out.println("You cannot divide a number by zero!");
