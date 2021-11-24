@@ -1,6 +1,5 @@
 package algorithmsdecision.towns;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class Town {
