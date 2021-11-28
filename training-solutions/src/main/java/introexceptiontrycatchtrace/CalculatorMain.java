@@ -16,10 +16,10 @@ public class CalculatorMain {
         if (operation.equalsIgnoreCase("addition")) {
             calculator.add(number1, number2);
         }
-        if (operation.equalsIgnoreCase("subtraction")) {
+         else if (operation.equalsIgnoreCase("subtraction")) {
             calculator.subtract(number1, number2);
         }
-        if (operation.equalsIgnoreCase("multiplication")) {
+        else if (operation.equalsIgnoreCase("multiplication")) {
             calculator.multiply(number1, number2);
         }
 
