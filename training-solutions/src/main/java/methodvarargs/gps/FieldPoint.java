@@ -4,10 +4,10 @@ import java.time.LocalDateTime;
 
 public class FieldPoint {
 
-    LocalDateTime timeOfSetting;
-    LocalDateTime timeOfLogging;
-    double latitude;
-    double longitude;
+    private LocalDateTime timeOfSetting;
+    private LocalDateTime timeOfLogging;
+    private double latitude;
+    private double longitude;
 
     public FieldPoint(LocalDateTime timeOfSetting, double latitude, double longitude) {
         this.timeOfSetting = timeOfSetting;
