@@ -35,17 +35,6 @@ public class ClassFiveA {
     public List<String> getStudents() {
         return students;
     }
-
-    public static void main(String[] args) {
-        ClassFiveA classFiveA = new ClassFiveA();
-        classFiveA.getStudents().add("a");
-        classFiveA.getStudents().add("b");
-        classFiveA.getStudents().add("c");
-        classFiveA.getStudents().add("d");
-        classFiveA.getStudents().add("e");
-        classFiveA.getTodayReferringStudent("one");
-        System.out.println(classFiveA.getTodayReferringStudent("one"));
-    }
 }
 
 
