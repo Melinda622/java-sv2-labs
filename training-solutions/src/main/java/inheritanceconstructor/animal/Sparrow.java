@@ -1,6 +1,6 @@
 package inheritanceconstructor.animal;
 
-public class Sparrow {
+public class Sparrow extends Bird {
 
     public Sparrow() {
         super();
