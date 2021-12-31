@@ -1,4 +1,4 @@
-package vehicle;
+package virtualmethod.vehicle;
 
 import org.junit.jupiter.api.Test;
 

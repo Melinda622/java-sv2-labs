@@ -1,4 +1,4 @@
-package vehicle;
+package virtualmethod.vehicle;
 
 public class Car extends Vehicle{
 

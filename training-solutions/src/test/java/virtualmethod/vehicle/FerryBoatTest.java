@@ -1,10 +1,10 @@
-package vehicle;
+package virtualmethod.vehicle;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class VehicleTest {
+class FerryBoatTest {
 
     @Test
     void testGetGrossLoad() {
