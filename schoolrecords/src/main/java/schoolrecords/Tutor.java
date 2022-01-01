@@ -12,4 +12,16 @@ public class Tutor {
         this.name = name;
         this.subjects = subjects;
     }
+
+    public boolean tutorTeachingSubject(Subject subject){
+        for (Subject s:subjects) {
+           if( s.getName().equals(subject.getName())){
+               return true;
+           }
+        }return false;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
