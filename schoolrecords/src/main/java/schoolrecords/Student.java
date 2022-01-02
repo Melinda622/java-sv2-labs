@@ -68,4 +68,12 @@ public class Student {
     public String getName() {
         return name;
     }
+
+    public MarkType getMarkType() {
+        return markType;
+    }
+
+    public List<Mark> getGrades() {
+        return grades;
+    }
 }
