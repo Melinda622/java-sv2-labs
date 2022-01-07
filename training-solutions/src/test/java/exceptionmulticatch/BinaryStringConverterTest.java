@@ -1,5 +1,6 @@
 package exceptionmulticatch;
 
+import exceptionmulticatch.converter.BinaryStringConverter;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

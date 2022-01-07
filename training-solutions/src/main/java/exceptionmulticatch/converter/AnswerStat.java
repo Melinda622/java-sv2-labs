@@ -1,4 +1,4 @@
-package exceptionmulticatch;
+package exceptionmulticatch.converter;
 
 public class AnswerStat {
 
